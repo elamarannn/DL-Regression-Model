@@ -43,8 +43,8 @@ Use the trained model to predict  for a new input value .
 ### Name:
 
 ### Register Number:
-Developed By : Elamaran S E
-Register No. : 212222230036
+## Developed By : Elamaran S E
+## Register No. : 212222230036
 ```
 import torch as t
 import torch.nn as nn
