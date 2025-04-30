@@ -130,19 +130,19 @@ print(f"\nPrediction for x = 120:  {y_new_pred:.8f}")
 ```
 
 ### Dataset Information
-![download](https://github.com/user-attachments/assets/913c45ec-a0e1-422e-a57f-75ce3ff31ac9)
+![image](https://github.com/user-attachments/assets/635a464e-a5fb-4cf0-8247-fc6a087673d1)
 
 ### OUTPUT
 
-![428267403-cab5f7a9-2d61-4943-989d-3bcce429fd3b](https://github.com/user-attachments/assets/b0b98255-e5c7-46a1-b944-081ec309b00b)
+![image](https://github.com/user-attachments/assets/04b31ba5-e523-4552-a8bf-2b554523a428)
 
-![428267456-a39b7ae5-cf97-49e2-aacf-09e5ad57285f](https://github.com/user-attachments/assets/c2125a78-fe69-4d2d-a446-14082d775adf)
+### Final Weight: 0.10597813, Final Bias: 0.96379614
 
-![428267503-7130a8e9-47a9-4b5a-90b6-b043acea4bb1](https://github.com/user-attachments/assets/f684f486-b921-45ad-b802-5ea26a79647c)
+![image](https://github.com/user-attachments/assets/05f354be-7538-4a3b-af8b-f00450c639d4)
 
 
 ### New Sample Data Prediction
-![428267565-98046f17-162e-48f7-8ff4-505c9c1b3cc3](https://github.com/user-attachments/assets/890b037b-1c37-4cea-9291-f9b7b21d12f1)
+![image](https://github.com/user-attachments/assets/576b76c7-2bd2-457f-b7dc-5e3705b7ea4d)
 
 ## RESULT
 Thus, a neural network regression model was successfully developed and trained using PyTorch.
